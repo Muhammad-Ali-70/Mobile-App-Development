@@ -15,5 +15,13 @@ CSC303 - Repository for MOBILE APP DEVELOPMENT Course in React Native
 I used a Custom  Drawer Component that can change the Tab of Screen As Well.
 As Such The focus of the Tab Navigation is also Changed with Drawer Buttons.
 
-
-
+```
+function AccountMain_Drawer({ navigation }) {
+  return (
+     <Drawer.Navigator
+      drawerPosition="right"
+      drawerContent={(props) => <CustomDrawer {...props} />}
+    > 
+      
+     </Drawer.Navigator>
+```
