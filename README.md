@@ -27,5 +27,5 @@ function AccountMain_Drawer({ navigation }) {
 ```
 ## Assignment 4 Include Code with its Output SS
 ### Async Storage
-### Async Storage Using Seralized Object Storing and Retreiving
+### Async Storage Using Serialized Object Storing and Retreiving
 
